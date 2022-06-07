@@ -12,4 +12,5 @@ sudo gem install jekyll
 cd ./docs
 jekyll new --skip-bundle .
 bundle install
+# fix dependencies of jekyll to highest found here [https://pages.github.com/versions/](https://pages.github.com/versions/)
 ```
