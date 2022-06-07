@@ -3,7 +3,7 @@ title: Job Search Platform
 bio: "A platform for your job search. All the tools you need to succeed! Kanban, Resume Generation, Keyword Stuffing"
 description: "A platform for your job search. All the tools you need to succeed! Kanban, Resume Generation, Keyword Stuffing"
 locale: en_US
-baseurl: "jobsearch" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 domain: bsneider.github.io # forces use of https by not specifying http
 url: "bsneider.github.io" # the base hostname & protocol for your site
 
@@ -17,9 +17,9 @@ facebook: default
 instagram: default
 github: default
 
-# personal
-location: Los Angeles, CA
-phone: 310-318-5555
+# # personal
+# location: Los Angeles, CA
+# phone: 310-318-5555
 email: info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
