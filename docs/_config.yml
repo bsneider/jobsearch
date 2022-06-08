@@ -4,7 +4,7 @@ bio: "A platform for your job search. All the tools you need to succeed! Kanban,
 description: "A platform for your job search. All the tools you need to succeed! Kanban, Resume Generation, Keyword Stuffing"
 locale: en_US
 baseurl: "/jobsearch" # the subpath of your site, e.g. /blog
-domain: bsneider.github.io # forces use of https by not specifying http
+# domain: bsneider.github.io # forces use of https by not specifying http
 url: "bsneider.github.io" # the base hostname & protocol for your site
 
 # Comments
