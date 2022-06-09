@@ -8,7 +8,7 @@ baseurl: "/jobsearch" # the subpath of your site, e.g. /blog
 # url: "bsneider.github.io" # the base hostname & protocol for your site
 
 # Comments
-disqus_shortname: default
+disqus_shortname: jobsearch-2
 
 # Social
 analytics-id: "G-54TL3TLP6L"
