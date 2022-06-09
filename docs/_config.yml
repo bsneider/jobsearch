@@ -7,9 +7,6 @@ baseurl: "/jobsearch" # the subpath of your site, e.g. /blog
 # domain: bsneider.github.io # forces use of https by not specifying http
 # url: "bsneider.github.io" # the base hostname & protocol for your site
 
-# Comments
-disqus_shortname: jobsearch-2
-
 # Social
 analytics-id: "G-54TL3TLP6L"
 # twitter: default
